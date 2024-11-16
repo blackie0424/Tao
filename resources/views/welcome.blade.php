@@ -111,7 +111,15 @@
                                 class="flex items-start gap-4 rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20]"
                             >
                                 <div class="flex size-12 shrink-0 items-center justify-center rounded-full bg-[#FF2D20]/10 sm:size-16">
-                                    <svg class="size-5 sm:size-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><g fill="#FF2D20"><path d="M24 8.25a.5.5 0 0 0-.5-.5H.5a.5.5 0 0 0-.5.5v12a2.5 2.5 0 0 0 2.5 2.5h19a2.5 2.5 0 0 0 2.5-2.5v-12Zm-7.765 5.868a1.221 1.221 0 0 1 0 2.264l-6.626 2.776A1.153 1.153 0 0 1 8 18.123v-5.746a1.151 1.151 0 0 1 1.609-1.035l6.626 2.776ZM19.564 1.677a.25.25 0 0 0-.177-.427H15.6a.106.106 0 0 0-.072.03l-4.54 4.543a.25.25 0 0 0 .177.427h3.783c.027 0 .054-.01.073-.03l4.543-4.543ZM22.071 1.318a.047.047 0 0 0-.045.013l-4.492 4.492a.249.249 0 0 0 .038.385.25.25 0 0 0 .14.042h5.784a.5.5 0 0 0 .5-.5v-2a2.5 2.5 0 0 0-1.925-2.432ZM13.014 1.677a.25.25 0 0 0-.178-.427H9.101a.106.106 0 0 0-.073.03l-4.54 4.543a.25.25 0 0 0 .177.427H8.4a.106.106 0 0 0 .073-.03l4.54-4.543ZM6.513 1.677a.25.25 0 0 0-.177-.427H2.5A2.5 2.5 0 0 0 0 3.75v2a.5.5 0 0 0 .5.5h1.4a.106.106 0 0 0 .073-.03l4.54-4.543Z"/></g></svg>
+                                    <svg fill="#FF2D20" width="32px" height="32px" viewBox="0 0 32.00 32.00" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke="#FF2D20" stroke-width="0.00032" transform="matrix(1, 0, 0, 1, 0, 0)rotate(0)">
+
+                                    <g id="SVGRepo_bgCarrier" stroke-width="0"/>
+
+                                    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.064"/>
+
+                                    <g id="SVGRepo_iconCarrier"> <title>microphone2</title> <path d="M16.4 25.936v2.993c2.992 0.161 5.305 1.151 5.305 2.075 0 0.023-12.268 0.023-12.268 0 0-0.889 2.142-1.849 4.973-2.062v-3.018c-3.614-0.518-6.402-3.597-6.402-7.354v-1.555h0.995v1.555c0 3.57 2.894 6.465 6.464 6.466h0.004c3.57-0.001 6.464-2.896 6.464-6.466v-1.555h1.058v1.555c-0.001 3.801-2.917 6.903-6.593 7.366zM15.5 23.955c-3.035 0-5.494-2.459-5.494-5.494v-2.477h4.495v-0.999h-4.495v-0.999h4.495v-0.998h-4.495v-0.999h4.495v-0.999h-4.495v-0.999h4.495v-0.999h-4.495v-1.582c0-3.034 2.459-5.432 5.494-5.432 3.034 0 5.494 2.397 5.494 5.432v1.582h-4.496v0.999h4.496v0.999h-4.496v0.999h4.496v0.999h-4.496v0.998h4.496v0.999h-4.496v0.999h4.496v2.477c0 3.035-2.46 5.494-5.494 5.494z"/> </g>
+
+                                    </svg>
                                 </div>
 
                                 <div class="pt-3 sm:pt-5">
